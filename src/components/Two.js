@@ -21,13 +21,6 @@ const Two = props => (
         <p>
           I had passed the Microsoft Technology Associate Certificate (MTA-98-381) Introduction to programming using Python with 89% marks on August 23, 2019.
         </p>
-        {/* <ul className="actions">
-          <li>
-            <a href="/" className="button">
-              Learn More
-            </a>
-          </li>
-        </ul> */}
       </div>
     </Fade>
     <ScrollLink

@@ -24,13 +24,6 @@ const Three = props => (
         <p>Verify at coursera.org/verify/YHQEDEGRL7QH
            Coursera has confirmed the identity of this individual and
            their participation in the course.</p>
-        {/* <ul className="actions">
-          <li>
-            <a href="/" className="button">
-              Learn More
-            </a>
-          </li>
-        </ul> */}
       </div>
     </Fade>
     <ScrollLink

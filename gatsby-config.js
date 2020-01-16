@@ -18,10 +18,6 @@ module.exports = {
             name: 'Gatsby',
             link: '/no-sidebar',
           },
-          // {
-          //   name: 'No Sidebar',
-          //   link: '/no-sidebar',
-          // },
           {
             name: 'Contact Me',
             link: '#footer',
@@ -30,26 +26,10 @@ module.exports = {
                 name: 'Home',
                 link: "/",
               },
-              // {
-              //   name: 'Option 2',
-              //   link: '#',
-              // },
-              // {
-              //   name: 'Option 3',
-              //   link: '#',
-              // },
-              // {
-              //   name: 'Option 4',
-              //   link: '#',
-              // },
             ],
           },
         ],
       },
-      // {
-      //   name: 'Elements',
-      //   link: '/elements',
-      // },
       {
         name: 'My Achievements',
         link: '#two',
@@ -73,7 +53,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'Umair Zaki',
-        icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
+        icon: 'src/assets/images/website-icon.jpg', // This path is relative to the root of the site.
       },
     },
     {

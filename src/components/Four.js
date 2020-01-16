@@ -64,13 +64,6 @@ const Four = props => (
           </div>
         </div>
         <footer className="major">
-          {/* <ul className="actions special">
-            <li>
-              <a href="/" className="button">
-                Magna sed feugiat
-              </a>
-            </li>
-          </ul> */}
         </footer>
       </div>
     </section>

@@ -34,9 +34,6 @@ const Footer = props => (
       <li>
         Cell: 03132873668
         </li>
-      {/* <li>
-        Demo Images: <a href="https://unsplash.com">Unsplash</a>
-      </li> */}
     </ul>
   </footer>
 )
