@@ -171,12 +171,18 @@
 
 	p {
 		margin: 0 0 0 0;
-		color: 	rgb(204, 0, 255);
+		color: 	rgb(255, 153, 0);
+		font-family: system-ui;
+		font-weight: 300;
+		letter-spacing: 0.05rem;
+		word-spacing: 0.11rem;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
+		font-family: system-ui;
+		font-weight: 500;
 		line-height: 1em;
 		margin: (_size(element-margin) * 0.5) 0em (_size(element-margin) * 0.5) 0em;
 
@@ -191,14 +197,22 @@
 		line-height: 1.5em;
 		letter-spacing: -0.025em;
 		color: 	#FFD12A;
+		font-family: system-ui;
+		font-weight: 500;
+		letter-spacing: 0.05rem;
+		word-spacing: 0.11rem;
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 2.3em;
 		line-height: 1.5em;
 		letter-spacing: -0.025em;
 		color: #FF355E;
 		text-align: center;
+		font-family: system-ui;
+		font-weight: 500;
+		letter-spacing: 0.05rem;
+		word-spacing: 0.11rem;
 	}
 
 	h4 {
@@ -207,6 +221,11 @@
 		color: rgb(0, 255, 149);
 		font-size: 1em;
 		line-height: 1.5rem;
+		font-family: system-ui;
+		font-weight: 400;
+		letter-spacing: 0.04rem;
+		word-spacing: 0.11rem;
+		
 	}
 
 	h5 {
@@ -214,12 +233,21 @@
 		text-align: center;
 		color: rgb(0, 255, 149);
 		font-size: 1em;
-		line-height: 1.5rem;
+		line-height: 1.3rem;
+		font-family: system-ui;
+		font-weight: 400;
+		letter-spacing: 0.05rem;
+		word-spacing: 0.11rem;
 	}
 
 	h6 {
-		font-size: 0.7em;
-		line-height: 1.5em;
+		color: rgb(0, 247, 255);
+		font-size: 1em;
+		line-height: 1.8rem;
+		font-family: system-ui;
+		font-weight: 400;
+		letter-spacing: 0.05rem;
+		word-spacing: 0.11rem;
 	}
 
 	sub {
@@ -465,11 +493,15 @@
 			margin: 0 0 (_size(element-margin) * 0.75) 0;
 		}
 
-		h2 + p {
-			color: rgb(0, 255, 200);
+		h2 + h3 {
+			color: rgb(255, 0, 140);
 			font-size: 1.25em;
 			margin-top: (_size(element-margin) * -0.5);
-			line-height: 1.75em;
+			line-height: 1.9em;
+			font-family: system-ui;
+			font-weight: 400;
+			letter-spacing: 0.05rem;
+		    word-spacing: 0.11rem;
 		}
 
 		h3 + p {
@@ -1601,15 +1633,22 @@
 				vertical-align: middle;
 
 				h1 {
-					font-size: 8vw;
+					font-size: 7vw;
 					color: darkcyan;
-					font-weight: 700;
+					font-family: system-ui;
+					letter-spacing: 0.05rem;
+		            word-spacing: 0.11rem;
+					font-weight: 500;
 					margin: 0;
 				}
 
-				h5 {
+				h3 {
 					margin: (_size(element-margin) * 0) 0 0 0;
-					font-size: 2.7vw;
+					font-size: 2.4vw;
+					font-family: system-ui;
+					font-weight: 400;
+					letter-spacing: 0.05rem;
+		            word-spacing: 0.11rem;
 					color: rgb(255, 35, 35);
 					font-weight: normal;
 					top: 0;

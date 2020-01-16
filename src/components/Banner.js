@@ -7,11 +7,11 @@ const Banner = props => (
     <div className="content">
       <header>
         <h1>Umair Zaki</h1>
-        <h5>
-        Web Developer UI - JAMStack</h5>
-        <h5>
+        <h3>
+        Web Developer UI - JAMStack</h3>
+        <h3>
           Machine Learning AI Services
-        </h5>
+        </h3>
       </header>
       <span className="image">
         <img src={pic01} alt="intro" />

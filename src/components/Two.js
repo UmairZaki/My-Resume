@@ -16,11 +16,11 @@ const Two = props => (
       <div className="content">
         <header>
           <h2>Microsoft Technology Associate</h2>
-          <p>Introduction to programming using Python</p>
+          <h3>Introduction to programming using Python</h3>
         </header>
-        <p>
+        <h6>
           I had passed the Microsoft Technology Associate Certificate (MTA-98-381) Introduction to programming using Python with 89% marks on August 23, 2019.
-        </p>
+        </h6>
       </div>
     </Fade>
     <ScrollLink

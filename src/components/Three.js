@@ -16,14 +16,14 @@ const Three = props => (
       <div className="content">
         <header>
           <h2>Coursera Certificate</h2>
-          <p>AI For Everyone deeplearning.ai</p>
+          <h3>AI For Everyone deeplearning.ai</h3>
         </header>
-        <p>
+        <h6>
         I had passed the Corsera Certificate (deeplearning.ai) AI For Everyone with 93% marks on July 12, 2019.
-        </p>
-        <p>Verify at coursera.org/verify/YHQEDEGRL7QH
+        </h6>
+        <h6>Verify at coursera.org/verify/YHQEDEGRL7QH
            Coursera has confirmed the identity of this individual and
-           their participation in the course.</p>
+           their participation in the course.</h6>
       </div>
     </Fade>
     <ScrollLink
