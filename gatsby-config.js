@@ -12,11 +12,11 @@ module.exports = {
         items: [
           {
             name: 'Deep Learning',
-            link: '/elements',
+            link: '/deeplearning',
           },
           {
             name: 'Gatsby',
-            link: '/no-sidebar',
+            link: '/gatsby',
           },
           {
             name: 'Contact Me',
