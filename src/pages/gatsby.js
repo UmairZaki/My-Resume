@@ -16,7 +16,7 @@ const LeftSidebar = props => (
         </header>
 
         <section id="content">
-          <h3> I design this webpage with Gatsby, React, Redux, HTML5, Sass(CSS) and Java Script.</h3>
+          <h3> I design this webpage with Gatsby, React, HTML5, Sass(CSS) and Java Script.</h3>
           <h3>Some of the following websites made by me</h3>
           <ul>
             <li><a href="https://umairzaki.netlify.com/" target= "_blank">Umair Zaki</a></li>
