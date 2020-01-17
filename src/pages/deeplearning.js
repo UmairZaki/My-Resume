@@ -21,7 +21,7 @@ const Elements = props => (
         <h3>I trained the model with all following aspects:</h3>
         <ul>
 
-<li><h3>Baseline Neural Network (Import Libraries, Load Data, Prepare train, test and validation data, label encoding and One hot encoding, Make Model, Make Compiler, Train Model, Evaluate Model)</h3></li>
+<li><h3>Baseline Neural Network (Import Libraries, Load Data, Prepare partitions, train, test and validation data, label encoding and One hot encoding, Make Model, Make Compiler, Train Model, Evaluate Model)</h3></li>
 <li><h3>Baseline Model With Data Standarization</h3></li>
 <li><h3>Evaluate a Smaller Network (small Dense Layers)</h3></li>
 <li><h3>Evaluate a very Smaller Network that Underfit</h3></li>
@@ -39,6 +39,9 @@ const Elements = props => (
   <li><h3>Numpy</h3></li>
   <li><h3>Pandas</h3></li>
   <li><h3>Matplotlib</h3></li>
+  <li><h3>Tensorflow</h3></li>
+  <li><h3>Keras</h3></li>
+  <li><h3>Scikit Learn</h3></li>
   <li><h3>Artificial Neural Network</h3></li>
   <li><h3>Convolutional Neural Network</h3></li>
   <li><h3>Recurrent Neural Network</h3></li>

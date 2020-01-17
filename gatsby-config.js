@@ -2,8 +2,8 @@ module.exports = {
   //pathPrefix: `/`,
   siteMetadata: {
     title: 'Resume',
-    author: 'umair',
-    description: 'A Gatsby.js V2 Starter based on Landed by HTML5 UP',
+    author: 'Umair',
+    description: 'Umair Zaki Resume',
     menuLinks: [
       
       {
